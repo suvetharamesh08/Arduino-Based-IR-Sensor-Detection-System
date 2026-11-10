@@ -54,6 +54,11 @@ The Arduino reads the sensor output through digital pin 3 and displays the detec
 
 ---
 
+## 💻 Arduino Source Code
+
+[View IR Sensor Arduino Code](./IR_sensor.ino)
+
+
 ## 📸 Project Output
 
 ![IR Sensor Project Output](./IR%20SENSOR.jpeg)
