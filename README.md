@@ -73,12 +73,6 @@ The Arduino reads the sensor output through digital pin 3 and displays the detec
 
 ---
 
-##  Arduino Source Code
-
-[View Arduino Source Code](./IR_sensor.ino)
-
----
-
 ##  Applications
 
 - Obstacle detection
